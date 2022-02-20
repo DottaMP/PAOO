@@ -1,4 +1,5 @@
-# PAOO
-## Programação Avançada Orientada a Objetos
+# Programação Avançada Orientada a Objetos    
 
-### 4º Semestre do curso de ADS da Fatec Ipiranga.
+### 1º Semestre/2022 utilizando a *linguagem TypeScript (ts)*!    
+
+Quebrando os códigos na Fatec, 4º semestre do curso de *Análise e Desenvolvimento de Sistemas*, Programação Avançada Orientada a Objetos (*PAOO*).   
