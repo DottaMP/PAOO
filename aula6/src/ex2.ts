@@ -47,6 +47,7 @@ class NSet {
     has(x: number): boolean {
         return this.elements.indexOf(x) != -1;
     }
+    
     //documentação "o quê?"
     //para cada objeto obj: NSet e cada x: number vale que:
     //obj.remove(x)
