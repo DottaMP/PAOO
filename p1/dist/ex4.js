@@ -14,7 +14,7 @@ function some(vs, fn) {
         }
     }
     ;
-    //devolve false se os elementos consecutivos não satizfazer a função fn
+    //devolve false se os elementos consecutivos não satisfazer a função fn
     return false;
 }
 ;
@@ -22,7 +22,7 @@ console.log("\nExercício 4:");
 const a = (some([1, 2, 4, 3, 6, 8], (x, y) => x > y));
 console.log("\nSatisfaz a função fn");
 console.log(a);
-//nesse caso será retornado true, pois pelo menos há um par de elementos consecutivos que satizfaz a função x > y
+//nesse caso será retornado true, pois pelo menos há um par de elementos consecutivos que satisfaz a função x > y
 const b = (some([1, 4, 6, 8], (x, y) => x > y));
 console.log("\nNão satisfaz a função fn");
 console.log(b);
